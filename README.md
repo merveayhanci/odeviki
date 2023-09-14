@@ -1,0 +1,2 @@
+# odeviki
+patika akademi ödev.
